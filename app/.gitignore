@@ -1,0 +1,5 @@
+/build
+app/build.gradle
+app/google-services.json
+app/keys.properties
+app/proguard-rules.pro
