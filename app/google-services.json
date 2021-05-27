@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47510940495",
+    "project_id": "pharma-squad",
+    "storage_bucket": "pharma-squad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47510940495:android:d43d77cc4e56704818333a",
+        "android_client_info": {
+          "package_name": "com.example.pharmasquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47510940495-1nhtlhrif3fvol5krq9i6ed3ip2oneik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmasquad",
+            "certificate_hash": "09821b57d1d492c1334fcbf0fdad2368ec2a5144"
+          }
+        },
+        {
+          "client_id": "47510940495-82nvpvnm9rt0tj7gl9h2uh3qtb8vq96b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bomj-tzT88S-JPKsEM_4NXMU0Znw-8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47510940495-82nvpvnm9rt0tj7gl9h2uh3qtb8vq96b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
